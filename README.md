@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akhne
+- 👋 Hi, I’m @alanbbrito
 - 👀 I’m interested in know more about front end development
 - 🌱 I’m currently learning JavaScript among other things
 - 💞️ I’m looking forward to colaborate with other professionals and learn from them
